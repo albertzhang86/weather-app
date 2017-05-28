@@ -1,0 +1,8 @@
+@import "../../../style/color.scss";
+.forecast-item {
+  font-size:18px;
+  margin-top: 5px;
+  .low {
+    color: $light-blue;
+  }
+}

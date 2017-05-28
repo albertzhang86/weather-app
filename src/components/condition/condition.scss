@@ -1,0 +1,11 @@
+@import "../../style/color.scss";
+
+.condition {
+  .weather {
+    font-size: 3em;
+  }
+
+  .date {
+    color: $light-grey;
+  }
+}
