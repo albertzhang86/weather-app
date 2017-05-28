@@ -28,11 +28,9 @@ After creation, my project should look like this:
     │   ├── condition
     │   │   ├── condition.component.js
     │   │   ├── condition.container.js
-    │   │   ├── condition.css
     │   │   └── condition.scss
     │   ├── forecast
     │   │   ├── forecast-item
-    │   │   │   ├── forecast-item.css
     │   │   │   ├── forecast-item.js
     │   │   │   └── forecast-item.scss
     │   │   ├── forecast.component.js
@@ -40,10 +38,8 @@ After creation, my project should look like this:
     │   ├── location
     │   │   ├── location.component.js
     │   │   ├── location.container.js
-    │   │   ├── location.css
     │   │   └── location.scss
     │   ├── search-box
-    │   │   ├── search-box.css
     │   │   ├── search-box.js
     │   │   └── search-box.scss
     │   └── weather-icon
