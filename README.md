@@ -1,7 +1,3 @@
-## Sending Feedback
-
-You can always contact my via [0425550618](tel:0425550618) or [albert.xiyu.zhang@gmail.com](mailto:albert.xiyu.zhang@gmail.com) or
-[albert.zhang@aol.com](mailto:albert.zhang@aol.com) or write me a letter(joking :))
 ## Folder Structure
 
 After creation, my project should look like this:
