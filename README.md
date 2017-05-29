@@ -1,3 +1,9 @@
+## Environment Requirement
+
+node 7.10.0 nvm 4.2.0
+
+run `npm install` in weather-app
+
 ## Folder Structure
 
 After creation, my project should look like this:
